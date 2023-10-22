@@ -1,16 +1,16 @@
-### Hi there 👋
+# Поздравляю с добрым утром
 
-<!--
-**oneekov/oneekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## _**Чё я делаю?**_
+Учу плюсы, питон
+Работаю над проектами, над какими - не знаю
+Играю в майнкрафт и кс2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *Чем известен?*
+Пока ничем
+
+## *Как маякнуть?*
+Telegram: [@oneekov](t.me/oneekov)
+
+## *А бабки куда?*
+[DonationAlerts](https://www.donationalerts.com/r/oneekov)
